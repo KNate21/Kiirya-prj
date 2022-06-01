@@ -1,0 +1,9 @@
+.main-content {
+  background-color: var(#adbabe);
+  font-family: 'Poppins', sans-serif;
+  font-size: 1.1rem;
+  color: var(#092b5e);
+  -webkit-transition: all .4s ease-in-out;
+  transition: all .4s ease-in-out;
+}
+/*# sourceMappingURL=styles.css.map */
